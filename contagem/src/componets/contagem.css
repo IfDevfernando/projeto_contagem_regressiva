@@ -1,0 +1,15 @@
+.number{
+    display: flex;
+    font-size: 3rem;
+    background-color:#00cdf7;
+    color: #fff;
+    justify-content: center;
+    text-align: center;
+    border-radius: 10px;
+    min-width: 80px;
+    min-height: 120px;
+    align-items: center;
+    flex-direction: column;
+    margin-top:100px
+
+}
